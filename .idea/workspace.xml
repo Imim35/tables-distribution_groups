@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ed0a569-22ef-4a97-9e38-f2f5ca4353fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/distribution_groups/SettingsDistributionGroupBranches.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribution_groups/SettingsDistributionGroupCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribution_groups/SettingsDistributionGroupLayout.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribution_groups/SettingsDistributionGroupMain.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribution_groups/SettingsDistributionGroupUsers.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distribution_groups/SettingsDistributionGroups.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qClLPEmGkZqDTejoNiQgmKFxuf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ed0a569-22ef-4a97-9e38-f2f5ca4353fe" name="Default Changelist" comment="" />
+      <created>1616591395605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616591395605</updated>
+      <workItem from="1616591397088" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
